@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="59" height="59" viewBox="0 0 59 59">
+  <defs>
+    <filter id="Ellipse_3" x="0" y="0" width="59" height="59" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Gruppe_108" data-name="Gruppe 108" transform="translate(-5144.5 3662.5)">
+    <g id="Gruppe_98" data-name="Gruppe 98" transform="translate(4479 -5461)">
+      <g transform="matrix(1, 0, 0, 1, 665.5, 1798.5)" filter="url(#Ellipse_3)">
+        <circle id="Ellipse_3-2" data-name="Ellipse 3" cx="25" cy="25" r="25" transform="translate(4.5 3.5)" fill="#fff"/>
+      </g>
+      <g id="baseline-email-24px" transform="translate(681 1813)">
+        <path id="Pfad_15" data-name="Pfad 15" d="M22.68,4H4.3A2.3,2.3,0,0,0,2.011,6.3L2,20.084a2.3,2.3,0,0,0,2.3,2.3H22.68a2.3,2.3,0,0,0,2.3-2.3V6.3A2.3,2.3,0,0,0,22.68,4Zm0,4.6L13.489,14.34,4.3,8.6V6.3l9.191,5.744L22.68,6.3Z" transform="translate(0.298 0.596)" fill="#fd8d32"/>
+        <path id="Pfad_16" data-name="Pfad 16" d="M0,0H27.573V27.573H0Z" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
